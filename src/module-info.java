@@ -1,2 +1,3 @@
 module JUnitTestExample {
+	requires junit;
 }
